@@ -1,0 +1,14 @@
+In this discussion, you will apply the statistical concepts and techniques covered in this week's reading about correlation coefficient and simple linear regression. A car rental company wants to evaluate the premise that heavier cars are less fuel efficient than lighter cars. In other words, the company expects that fuel efficiency (miles per gallon) and weight of the car (often measured in thousands of pounds) are correlated. Performing this analysis will help the company optimize its business model and charge its customers appropriately.
+
+In this discussion, you will work with a cars data set that includes two variables:
+
+1. Miles per gallon (coded as mpg in the data set)
+2. Weight of the car (coded as wt in the data set)
+3. The random sample will be drawn from a CSV file. This data will be unique to you, and therefore your answers will be unique as well. Run Step 1 in the Python script to generate your unique sample data.
+
+In your initial post, address the following items:
+
+You created a scatterplot of miles per gallon against weight; check to make sure it was included in your attachment. Does the graph show any trend? If yes, is the trend what you expected? Why or why not? See Step 2 in the Python script.
+What is the coefficient of correlation between miles per gallon and weight? What is the sign of the correlation coefficient? Does the coefficient of correlation indicate a strong correlation, weak correlation, or no correlation between the two variables? How do you know? See Step 3 in the Python script.
+Write the simple linear regression equation for miles per gallon as the response variable and weight as the predictor variable. How might the car rental company use this model? See Step 4 in the Python script.
+What is the slope coefficient? Is this coefficient significant at a 5% level of significance (alpha=0.05)? (Hint: Check the P-value, P is greater than the absolute value of t, for weight in the Python output.) See Step 4 in the Python script.1. 

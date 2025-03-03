@@ -1,0 +1,32 @@
+First, introduce yourself to the class. Include your major and anything you would like to share about yourself. Then address the prompt below.
+
+Use the link in the Jupyter Notebook activity to access your Python script. Once you have made your calculations, complete this discussion. The script will output answers to the questions given below. You must attach your Python script output as an HTML file and respond to the questions below.
+
+For this discussion, you will collect data from a public source and calculate descriptive statistics, including measures of central tendency and variability. You will then interpret the results and provide feedback to your peers.
+
+In your initial post, use the World Temperatures website (or a similar website of your choice) to find the daily maximum temperature data rounded to the nearest integer (whole number) in your city or zip code for the past fourteen days. You will use this data set to calculate measures of central tendency and variability. You will also provide a detailed analysis based on your results.
+
+In your initial post, address the following items:
+
+Share your data set. See Step 1 in the Python script.
+What were your descriptive statistics for this data set? Report the mean, median, variance, and standard deviation. Based on these statistics, what can you say about the distribution of daily maximum temperature in your city or zip code? Use all of the statistics that you calculated to explain the distribution in detail. See Step 2 in the Python script.
+Which graph showed the general trend of daily maximum temperature in your city or zip code? See Step 3 in the Python script.
+In general, how are the measures of central tendency and variability used to analyze a data distribution?
+The Python script also provides you with temperature data for a city called Zion. Which graph showed the difference in the distribution of your data and Zion's data? What can you say about the differences in data distributions? See Step 4 in the Python script.
+Your graphs will not show up in your html document when attached to your discussion board post. Please embed them in your posts by right clicking on the graph while in your Python script, select "save image as", save it and then attach to your discussion board post using the camera icon in the menu bar.
+In your follow-up posts to other students, review your peers' data sets and statistics and discuss the significance of these results. Here are some questions that you should address in your follow-up posts:
+
+How do your peers' measures of central tendency compare to yours? Are they are lower or higher? What does this signify?
+How do the measures of variability compare? What does this signify?
+In what ways are their data similar to or different from your own? Why are those similarities or distinctions meaningful?
+Remember to attach your Python output and respond to all questions in your initial and follow-up posts. Be sure to clearly communicate your ideas using appropriate terminology.
+
+To complete this assignment, review the Discussion Rubric.
+
+
+
+
+
+Hello Everyone,
+
+My name is Tyler Ellis but you can call me Ty. Currently I am looking to finish my bachelors in Computer Science with an emphasis in Software Engineering. I am a prety open minded disabled veteran with a 6 year old son, 8 week old puppy, and loving wife. I am not new to the IT industry as i have worked in IT industry for over a decade now starting from geek squad at BestBuy all the way to being a Senior Cloud Engineer at Azure.
